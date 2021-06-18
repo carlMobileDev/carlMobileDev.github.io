@@ -30202,7 +30202,7 @@ if(p<q){k=j.m7(p)
 if(s.$2(a,k)>0){C.b.m(j.b,b,k)
 b=p}}C.b.m(j.b,b,a)}}
 F.xl.prototype={
-L:function(a,b){return new S.pb(new F.po("Flutter Demo Home Page",null),"Flutter Demo",X.a32(null,C.hF),null)}}
+L:function(a,b){return new S.pb(new F.po("My Digital Garden",null),"Carl Wills",X.a32(null,C.hF),null)}}
 F.po.prototype={
 aT:function(){return new F.t6(C.n)}}
 F.t6.prototype={
